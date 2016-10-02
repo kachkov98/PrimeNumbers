@@ -1,0 +1,4 @@
+[Project]
+Name=PrimeNumbers
+Manager=KDevCMakeManager
+VersionControl=kdevgit
